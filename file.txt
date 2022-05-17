@@ -1,4 +1,4 @@
-Dette er en fil
+Dette er en fil.
 
 Der står tekst.
 
