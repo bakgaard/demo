@@ -2,4 +2,4 @@ Dette er en fil.
 
 Der kan stå tekst.
 
-Meget fint.
+Dette er meget fint.
