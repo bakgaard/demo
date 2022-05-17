@@ -1,0 +1,5 @@
+Dette er en fil
+
+Der står tekst.
+
+Meget fint.
