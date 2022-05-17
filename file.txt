@@ -1,5 +1,5 @@
 Dette er en fil.
 
-Der står tekst.
+Der står noget tekst.
 
 Meget fint.
